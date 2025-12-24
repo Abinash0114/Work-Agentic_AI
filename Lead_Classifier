@@ -1,0 +1,11 @@
+Lead_Classifier_0.1
+Here is the workflow of the 1st version of the AI Agent, that deals with Classifying Leads.
+
+Feature: Identify the Customer by name, analyze its need from text input[Demo Json file] and checks whether potential lead, displaying the same.
+
+State: DEMO
+Next Update: Take data from database, identify analyse and send an invoice email of their demand.
+
+Designed: Abinash Mohapatra
+Domain: AI | CLOUD
+LinkedIn: www.linkedin.com/in/abinash-mohapatra-167278297
