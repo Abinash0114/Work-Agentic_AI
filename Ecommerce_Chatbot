@@ -1,0 +1,13 @@
+ecommBot_v0.1
+
+An Agentic AI workflow model that takes chat input from user, show cases the available product options and value for the user, on further agreement calcualtes the cost and makes a deal.
+
+Feature: Takes input for product requirement of user and returns the max discount avaialble on a the threshold order quantity after agreement.
+
+Status: DEMO
+NEXT UPDATE: plan of an additional feature of sending an email with the agreement and Invoice
+
+
+Designer: Abinash Mohapatra
+Domain: AI | CLOUD
+LinkedIn: www.linkedin.com/in/abinash-mohapatra-167278297
